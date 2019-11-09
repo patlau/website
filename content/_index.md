@@ -1,7 +1,7 @@
 ---
 title: "Lauper IT-Consulting"
 date: 2019-11-09T12:03:11+01:00
-draft: true
+draft: false
 ---
 
 <div class="content">
@@ -26,6 +26,5 @@ draft: true
             <h1>Technical project lead</h1>
         </div>
     </div>
-
 
 </div>
