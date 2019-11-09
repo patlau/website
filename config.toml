@@ -7,15 +7,20 @@ googleAnalytics = ""
 
 [params]
     author = "Patrick Lauper"
-    description = "Lauper Information Technology Consulting"
+    description = "Information Technology Consulting"
     githubUsername = "patlau"
-    accent = "red"
+    accent = ""
     showBorder = true
-    backgroundColor = "white"
+    backgroundColor = ""
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["java", "xml"]
+    profilePic = ""
+    css = ["css/custom.css"]
+    js = ["https://kit.fontawesome.com/141a99f265.js"]
+
+[menu]
 
 [[menu.main]]
     url = "/"

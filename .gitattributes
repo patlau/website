@@ -4,3 +4,4 @@
 *.xml		text eol=lf
 *.jpg		-text
 .gitmodules text eol=lf
+*.md		text eol=crlf

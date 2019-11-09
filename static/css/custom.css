@@ -1,0 +1,58 @@
+body {
+    background-image: url("/img/front.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 300px;
+    background-position: 25px 50px; 
+}
+
+main {
+    width: 100%;
+    z-index: 1;
+    margin-bottom: 10px;
+}
+
+.intro {
+    transform: none !important;
+}
+
+.content > h1 {
+    color: #757575;
+    font-size: 3vmin;
+    text-align: center;
+}
+
+.homepage-content {
+    background-color: white;
+}
+
+.offers {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.offer {
+    margin: 20px;
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.offer > i {
+    left: 50%;
+}
+
+.offer > h1 {
+    color: #757575;
+    font-size: 2vmin;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 100;
+}
