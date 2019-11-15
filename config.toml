@@ -27,22 +27,22 @@ googleAnalytics = ""
     name = "Home"
     weight = 1
 
-[[menu.main]]
-    url = "/contact/"
-    name = "Contact"
-    weight = 2
-
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:info@lauper-it-consulting.ch"
+    url = "mailto:p.lauper@yahoo.com"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/patrick-lauper-42110277/"
+    url = "https://wa.me/41792152002"
+    name = "whatsapp"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/company/lauper-it-consulting"
     name = "linkedin"
     weight = 2
 

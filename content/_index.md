@@ -10,11 +10,11 @@ draft: false
     <p>As a forward-looking technology and consulting company, we operate in the field of software architecture and development. Together with our customers, we individually evaluate the possibilities and benefits of new technologies, design customer-specific concepts and take over the technical project management and implementation as well as the instruction and training.<p>
     <p>We offer first-class know-how in Java, Web- and Mobile plattform, are certified and have many years of experience.<p>
 
-    <h1>Our offer</h1>
+    <h1>Our offers</h1>
 
     <div class="offers">
         <div class="offer">
-            <i class="fal fa-sitemap fa-3x"></i>
+            <i class="fal fa-chess-rook fa-3x"></i>
             <h1>Software Architecture</h1>
         </div>
         <div class="offer">

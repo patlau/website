@@ -1,9 +1,5 @@
 body {
-    background-image: url("/img/front.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 300px;
-    background-position: 25px 50px; 
+
 }
 
 main {
